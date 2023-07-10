@@ -1,0 +1,15 @@
+/home/rodrigo/Development/csharp/oo/bin/Debug/net7.0/oo
+/home/rodrigo/Development/csharp/oo/bin/Debug/net7.0/oo.deps.json
+/home/rodrigo/Development/csharp/oo/bin/Debug/net7.0/oo.runtimeconfig.json
+/home/rodrigo/Development/csharp/oo/bin/Debug/net7.0/oo.dll
+/home/rodrigo/Development/csharp/oo/bin/Debug/net7.0/oo.pdb
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/oo.csproj.AssemblyReference.cache
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/oo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/oo.AssemblyInfoInputs.cache
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/oo.AssemblyInfo.cs
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/oo.csproj.CoreCompileInputs.cache
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/oo.dll
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/refint/oo.dll
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/oo.pdb
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/oo.genruntimeconfig.cache
+/home/rodrigo/Development/csharp/oo/obj/Debug/net7.0/ref/oo.dll
